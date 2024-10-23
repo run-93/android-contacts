@@ -20,5 +20,4 @@ public class BaseListDiffCallback <T extends ListDiffInterface<T>> extends DiffU
     public Object getChangePayload(@NonNull T oldItem, @NonNull T newItem) {
         return newItem;
     }
-
 }

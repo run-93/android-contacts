@@ -69,4 +69,5 @@ public class ContactUi implements ListDiffInterface <ContactUi> {
         result = 31 * result + types.hashCode();
         return result;
     }
+
 }

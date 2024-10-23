@@ -87,5 +87,4 @@ public class FilterContactTypeAdapter extends RecyclerView.Adapter<FilterContact
         }
     }
 
-
 }

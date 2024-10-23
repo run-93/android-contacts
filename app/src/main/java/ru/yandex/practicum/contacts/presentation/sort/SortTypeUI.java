@@ -46,4 +46,5 @@ public class SortTypeUI implements ListDiffInterface <SortTypeUI> {
         result = 31 * result + (selected ? 1 : 0);
         return result;
     }
+
 }

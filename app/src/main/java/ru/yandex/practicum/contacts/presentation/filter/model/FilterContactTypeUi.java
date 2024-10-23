@@ -44,4 +44,5 @@ public class FilterContactTypeUi implements ListDiffInterface<FilterContactTypeU
         result = 31 * result + (selected ? 1 : 0);
         return result;
     }
+
 }
